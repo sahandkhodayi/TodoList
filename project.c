@@ -6,7 +6,7 @@
 typedef char *string;//راحت کار خود 
 struct Done_List
 {
-    string done;    
+    string done;    //استراک اصلی
 };
 struct Main_List //دیتا ست اصلی 
 {
